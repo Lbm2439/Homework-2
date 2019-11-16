@@ -1,3 +1,6 @@
+body {
+  background-image: url(../assets/photos/palm-leaf\ copy.png);
+}
 .navbar-brand{
         position: fixed;
         bottom: 0;
@@ -9,9 +12,36 @@
         text-align: center;
         font-family: Arial, Helvetica, sans-serif;
         font-size: 20px;
-        color: #ffffff !important;
+        color: #ffffff !important; 
+        margin: 20 px;
+    }
+ p{
+  color: #777777;
+  text-align: left;
+  padding-left: 20px;
+  padding-right: 30px;
+  padding-top: 30px;
+  font-family: Arial, Helvetica, sans-serif;
+  width: 500px;
+ }    
+ .row{
+   background-color: #ffffff;
+ } 
 
-      }
+ .aboutme {
+   position: relative;
+   margin: 20px;
+ }
 
-.nav-item{
-  }
+ #prof_pic {
+  /* height: 200px;
+  width: 200px; */
+  height: 200px;
+  width: 300px;
+  float: left;
+  margin: 30px;
+ }
+
+ .names {
+   width: 300%,
+ }
