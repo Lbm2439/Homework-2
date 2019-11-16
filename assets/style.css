@@ -1,47 +1,44 @@
 body {
   background-image: url(../assets/photos/palm-leaf\ copy.png);
 }
-.navbar-brand{
-        position: fixed;
-        bottom: 0;
-        width: 100%;
-        height: 6=20px;
-        line-height: 60px;
-        background-color: #666666;
-        border-top: solid #4aaaa5;
-        text-align: center;
-        font-family: Arial, Helvetica, sans-serif;
-        font-size: 20px;
-        color: #ffffff !important; 
-        margin: 20 px;
-    }
- p{
-  color: #777777;
-  text-align: left;
-  padding-left: 20px;
-  padding-right: 30px;
-  padding-top: 30px;
+.navbar-brand {
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+  height: 50px;
+  line-height: 40px;
+  background-color: #666666;
+  border-top: solid #4aaaa5;
+  text-align: center;
   font-family: Arial, Helvetica, sans-serif;
-  width: 500px;
- }    
- .row{
-   background-color: #ffffff;
- } 
+  font-size: 20px;
+  color: #ffffff !important;
+  margin: 20 px;
+}
+p {
+  color: #777777;
+  font-family: Arial, Helvetica, sans-serif;
+  height: 400px;
+  float: left;
+  display: contents;
+}
+.row {
+  background-color: #ffffff;
+}
 
- .aboutme {
-   position: relative;
-   margin: 20px;
- }
+.aboutme {
+  position: relative;
+  margin: 20px;
+}
 
- #prof_pic {
-  /* height: 200px;
-  width: 200px; */
-  height: 200px;
-  width: 300px;
+#prof_pic {
+  width: 15rem;
+  height: 12rem;
   float: left;
   margin: 30px;
- }
-
- .names {
-   width: 300%,
- }
+}
+.main{
+  width: 960px;
+  padding: 20px;
+  
+}
