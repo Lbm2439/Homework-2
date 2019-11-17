@@ -1,5 +1,5 @@
 body {
-  background-image: url(../assets/photos/palm-leaf\copy.png);
+  background-image: url(assets/photos/palm-leaf\ copy.png);
 }
 .navbar-brand {
   position: fixed;
@@ -34,14 +34,13 @@ p {
   width: 15rem;
   height: 12rem;
   float: left;
-  margin: 30px;
+  margin: 20px;
 }
 .main {
   width: 960px;
   padding: 20px;
   margin-bottom: 40px;
   border: solid lightgray;
-  
 }
 
 .body_header {
@@ -67,9 +66,7 @@ h1 {
   color: white;
   font-size: 22px;
   font-family: Georgia, "Times New Roman", Times, serif;
-  text-align: center;
-  padding-top: 35px;
-  padding-bottom: 20px;
+  padding: 12px;
 }
 
 .footer {
